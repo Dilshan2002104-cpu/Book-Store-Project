@@ -34,7 +34,7 @@ const DeleteBook = () => {
         <button
           className="p-4 bg-red-600 text-white m-8 w-full"
           onClick={handleDeleteBook}
-          disabled={loading} // Disable button during loading
+          disabled={loading} 
         >
           Yes, Delete It
         </button>

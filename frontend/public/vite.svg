@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <title>Book Store Project</title>
+  <rect width="100" height="100" fill="#f9f9f9" />
+  <g>
+    <!-- Book Cover -->
+    <rect x="20" y="20" width="60" height="60" rx="5" fill="#6a5acd" />
+    <!-- Bookmark -->
+    <polygon points="45,20 55,20 50,35" fill="#f08080" />
+    <!-- Pages -->
+    <rect x="25" y="25" width="50" height="50" fill="#ffffff" />
+    <!-- Book Spine -->
+    <rect x="20" y="20" width="5" height="60" fill="#483d8b" />
+  </g>
+</svg>
